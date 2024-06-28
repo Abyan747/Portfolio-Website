@@ -69,7 +69,7 @@ html,body{
     margin: auto;
     padding: 3.5em 14% 3em 14%;
     background-color: rgba(0,0,0,0.6);
-    background-image: url(port3\,jpg.avif);
+    background-image: url(port3,jpg.avif);
     background-blend-mode: multiply;
     background-size: cover;
 }
