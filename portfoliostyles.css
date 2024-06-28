@@ -69,7 +69,7 @@ html,body{
     margin: auto;
     padding: 3.5em 14% 3em 14%;
     background-color: rgba(0,0,0,0.6);
-    background-image: url(images/port3\,jpg.avif);
+    background-image: url(port3\,jpg.avif);
     background-blend-mode: multiply;
     background-size: cover;
 }
@@ -238,7 +238,7 @@ html,body{
 
 .contact-me{
     height:400px;
-    background-image: url(images/colorful-nature-scenery-on-beautiful-260nw-2296026483.webp);
+    background-image: url(colorful-nature-scenery-on-beautiful-260nw-2296026483.webp);
     background-color: rgba(0,0,0,0.7);
     background-blend-mode: multiply;
     background-size:cover;
